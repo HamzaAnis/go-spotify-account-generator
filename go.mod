@@ -1,3 +1,3 @@
-module github.com/hamzaanis/go-spotify-account-generator
+module github.com/HamzaAnis/go-spotify-account-generator
 
 go 1.16

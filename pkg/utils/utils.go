@@ -6,7 +6,7 @@ import (
 	"math/rand"
 	"net/http"
 
-	"github.com/hamzaanis/go-spotify-account-generator/pkg/constants"
+	"github.com/HamzaAnis/go-spotify-account-generator/pkg/constants"
 )
 
 //RandomString generates a random string with the size n

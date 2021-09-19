@@ -3,7 +3,7 @@ package spotify
 import (
 	"fmt"
 
-	"github.com/hamzaanis/go-spotify-account-generator/pkg/utils"
+	"github.com/HamzaAnis/go-spotify-account-generator/pkg/utils"
 )
 
 // CreateAccount creates a spotify account

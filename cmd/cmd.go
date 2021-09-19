@@ -4,7 +4,7 @@ import (
 	"flag"
 	"sync"
 
-	"github.com/hamzaanis/go-spotify-account-generator/pkg/spotify"
+	"github.com/HamzaAnis/go-spotify-account-generator/pkg/spotify"
 )
 
 // Starting point of the cmd
