@@ -6,7 +6,8 @@ Spotify account generator, just for fun purpose.
 $ go get github.com/HamzaAnis/go-spotify-account-generator
 ```
 # How to use
-```bash
+
+```properties
 $ go-spotify-account-generator -h
 Usage of go-spotify-account-generator:
   -routines int
