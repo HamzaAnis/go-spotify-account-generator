@@ -5,9 +5,30 @@ Spotify account generator, just for fun purpose.
 ```
 $ go get github.com/HamzaAnis/go-spotify-account-generator
 ```
+# How to use
+```bash
+$ go-spotify-account-generator -h
+Usage of go-spotify-account-generator:
+  -routines int
+    	The number of go routines to run (default 10)
+  -size int
+    	The total number of accounts to generate (default 100)
 
+$ go-spotify-account-generator -routines 5 -size 10
+Spotify Account: XVlBzgbaiCMRAjW@gmail.com, YzRyWJjPjzpfRFE
+Spotify Account: whTHctcuAxhxKQF@gmail.com, gmotaFetHsbZRjx
+Spotify Account: lgTeMaPEZQleQYh@gmail.com, TCoaNatyyiNKARe
+Spotify Account: DaFpLSjFbcXoEFf@gmail.com, EkXBAkjQZLCtTMt
+Spotify Account: KJyiXJrscctNswY@gmail.com, NsGRussVmaozFZB
+Spotify Account: sbOJiFQGZsnwTKS@gmail.com, mVoiGLOpbUOpEdK
+Spotify Account: RsWxPLDnJObCsNV@gmail.com, AwnwekrBEmfdzdc
+Spotify Account: updOMeRVjaRzLNT@gmail.com, XYeUCWKsXbGyRAO
+Spotify Account: mBTvKSJfjzaLbtZ@gmail.com, syMGeuDtRzQMDQi
+Spotify Account: YCOhgHOvgSeycJP@gmail.com, JHYNufNjJhhjUVR
+```
 ## Example: 
 
+To use in another package
 ```go
 package main
 
