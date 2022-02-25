@@ -3,7 +3,7 @@ Spotify account generator, just for fun purpose.
 
 ## Install
 ```sh
-go get github.com/HamzaAnis/go-spotify-account-generator
+go install github.com/HamzaAnis/go-spotify-account-generator@latest
 ```
 # How to use
 
